@@ -24,7 +24,7 @@ This project includes modern UI elements, winner highlighting, score tracking, u
 No external libraries needed — Tkinter comes preinstalled with Python.
 
 🚀 How to Run
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone https://github.com/akashatre/Tic-Tac-Toe.git
 cd tic-tac-toe-python
 python tic_toi.py
 
